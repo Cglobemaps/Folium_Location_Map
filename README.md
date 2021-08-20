@@ -19,6 +19,6 @@ When you use a VPN, the location assigned to your VPN address will be displayed 
 - geocoder
 
 
-#Usage
 
+#Usage
 This script does not have any special purpose besides showing the IP address location on a Folium map.
