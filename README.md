@@ -9,10 +9,16 @@ When you use a VPN, the location assigned to your VPN address will be displayed 
 
 
 # Requirements
-0 Jupyter
-0 Python
-0 folium
-0 geopandas
-0 pandas
-0 numpy
-0 geocoder
+
+- Jupyter
+- Python
+- folium
+- geopandas (not used in current script)
+- pandas (not used in current script)
+- numpy (not used in current script)
+- geocoder
+
+
+#Usage
+
+This script does not have any special purpose besides showing the IP address location on a Folium map.
